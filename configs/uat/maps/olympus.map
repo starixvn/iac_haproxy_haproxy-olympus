@@ -1,1 +1,12 @@
-#
+#domain backendnames
+napsettlementcore.starixuat.com olympus_nap_settlement_UAT_nodes_1
+napsettlementcore2.starixuat.com olympus_nap_settlement_UAT_nodes_2
+napsettlementcore3.starixuat.com olympus_nap_settlement_UAT_nodes_3
+napsettlementcore4.starixuat.com olympus_nap_settlement_UAT_nodes_4
+napsettlementcore5.starixuat.com olympus_nap_settlement_UAT_nodes_5
+prmscore.starixuat.com olympus_nap_prms_UAT_nodes
+newowp1.starixuat.com olympus_owp_netcore_v1_nodes
+newowp2.starixuat.com olympus_owp_netcore_v2_nodes
+newowp3.starixuat.com olympus_owp_netcore_v3_nodes
+aav1.starixuat.com olympus_nap_aa_UAT_1_nodes
+aav2.starixuat.com olympus_nap_aa_UAT_2_nodes
