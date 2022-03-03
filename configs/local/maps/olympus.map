@@ -6,6 +6,7 @@ aa.nexdev.net olympus_aa_LOCAL_nodes
 settlement-netcore-v3.nexdev.net olympus_nap_settlement_LOCAL_3_nodes
 settlement-netcore-v2.nexdev.net olympus_nap_settlement_LOCAL_2_nodes
 settlement-netcore-v1.nexdev.net olympus_nap_settlement_LOCAL_1_nodes
+settlement-netcore.nexdev.net olympus_nap_settlement_LOCAL_nodes
 settlement.nexdev.net olympus_nap_settlement_nodes
 owp-netcore-v3.nexdev.net olympus_nap_owp_netcore_local3_nodes
 owp-netcore-v2.nexdev.net olympus_nap_owp_netcore_local2_nodes
