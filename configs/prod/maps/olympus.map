@@ -1,1 +1,7 @@
-#
+#Olympus
+settlementcore.oneops.net olympus_nap_settlement_nodes
+settlementcore2.oneops.net olympus_nap_settlement_nodes
+settlementcore3.oneops.net olympus_nap_settlement_nodes
+prmscore.oneops.net olympus_nap_prms_PROD_nodes
+owp1.oneops.net olympus_nap_owp_PROD_nodes
+owp.oneops.net olympus_nap_owp_PROD_nodes
