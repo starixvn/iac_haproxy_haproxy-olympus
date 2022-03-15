@@ -1,8 +1,7 @@
 #Olympus
-specialdelete.nexdev.net olympus_nap_special_delete_nodes
-aa-v2.nexdev.net olympus_aa_LOCAL_nodes_2
-aa-v1.nexdev.net olympus_aa_LOCAL_nodes_1
-aa.nexdev.net olympus_aa_LOCAL_nodes
+aa-v2.nexdev.net olympus_aa_LOCAL_LOCAL_2_be
+aa-v1.nexdev.net olympus_aa_LOCAL_LOCAL_1_be
+aa.nexdev.net olympus_aa_LOCAL_be
 settlement-netcore-v3.nexdev.net olympus_nap_settlement_LOCAL_3_nodes
 settlement-netcore-v2.nexdev.net olympus_nap_settlement_LOCAL_2_nodes
 settlement-netcore-v1.nexdev.net olympus_nap_settlement_LOCAL_1_nodes
@@ -14,16 +13,16 @@ owp-netcore-v1.nexdev.net olympus_nap_owp_netcore_local1_nodes
 owp-netcore.nexdev.net olympus_nap_owp_netcore_local_nodes
 prms-core.nexdev.net olympus_prms_netcore_nodes
 prms-netcore-v1.nexdev.net olympus_prms_netcore_v1_nodes
-devnotes.nexdev.net olympus_devnotes_nodes
+devnotes.nexdev.net olympus_devnotes_LOCAL_be
 owp.nexdev.net olympus_owp_nodes
 prms.nexdev.net olympus_prms_nodes
 nap-admin.nexdev.net nap_admin_nodes
-nap-report.nexdev.net olympus_nap_report_nodes
-nap-riskandcontrol.nexdev.net olympus_nap_riskandcontrol_nodes
-nap-api.nexdev.net olympus_nap_api_nodes
-nap-parlayrms.nexdev.net olympus_nap_parlayrms_nodes
-nap-dw.nexdev.net olympus_nap_dw_nodes
-nap-specialdelete.nexdev.net olympus_nap_specialdelete_nodes
-nap-settlement-result.nexdev.net olympus_nap_autopayout_api_nodes
+nap-report.nexdev.net olympus_nap_report_LOCAL_be
+nap-riskandcontrol.nexdev.net olympus_nap_riskandcontrol_LOCAL_be
+nap-api.nexdev.net olympus_nap_api_LOCAL_be
+nap-parlayrms.nexdev.net olympus_nap_parlayrms_LOCAL_be
+nap-dw.nexdev.net olympus_nap_dw_LOCAL_be
+nap-specialdelete.nexdev.net olympus_nap_specialdelete_LOCAL_be
+nap-settlement-result.nexdev.net olympus_nap_autopayout_api_LOCAL_be
 owp.nexdev.net olympus_nap_owp_nodes
-letstalk-api.nexdev.net olympus_letstalkservice_api_nodes
+letstalk-api.nexdev.net olympus_letstalkservice_api_LOCAL_be
