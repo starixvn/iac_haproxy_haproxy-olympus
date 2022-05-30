@@ -19,6 +19,8 @@ prms.nexdev.net olympus_prms_LOCAL_be
 nap-report.nexdev.net olympus_nap_report_LOCAL_be
 nap-riskandcontrol.nexdev.net olympus_nap_riskandcontrol_LOCAL_be
 nap-api.nexdev.net olympus_nap_api_LOCAL_be
+nap-api-dev.nexdev.net olympus_nap_api_dev_LOCAL_be
+nap-settlement-setting.nexdev.net olympus_settlement_clonedata_api_LOCAL_be
 nap-parlayrms.nexdev.net olympus_nap_parlayrms_LOCAL_be
 nap-dw.nexdev.net olympus_nap_dw_LOCAL_be
 nap-specialdelete.nexdev.net olympus_nap_specialdelete_LOCAL_be
