@@ -30,6 +30,7 @@ tvs.nexdev.net olympus_nap_special_delete_LOCAL_be
 nap-settlement-result.nexdev.net olympus_nap_autopayout_api_LOCAL_be
 letstalk-api.nexdev.net olympus_letstalkservice_api_LOCAL_be
 nap-admin.nexdev.net olympus_nap_admin_LOCAL_be
+nap-riskcontrol.nexdev.net olympus_nap_risk_control_LOCAL_be
 #Olympus Internal
 nap_api_netcore.nexdev.net:8787 olympus_nap_api_netcore_LOCAL_be
 mail_service.nexdev.net:8787 olympus_mail_service_LOCAL_be
