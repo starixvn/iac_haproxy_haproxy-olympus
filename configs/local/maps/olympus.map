@@ -15,7 +15,7 @@ owp-netcore.nexdev.net olympus_nap_owp_netcore_LOCAL_be
 prms-core.nexdev.net olympus_prms_netcore_LOCAL_be
 prms-netcore-v1.nexdev.net olympus_prms_netcore_v1_LOCAL_be
 devnotes.nexdev.net olympus_devnotes_LOCAL_be
-owp.nexdev.net olympus_owp_LOCAL_be
+#owp.nexdev.net olympus_owp_LOCAL_be
 prms.nexdev.net olympus_prms_LOCAL_be
 nap-report.nexdev.net olympus_nap_report_LOCAL_be
 nap-riskandcontrol.nexdev.net olympus_nap_riskandcontrol_LOCAL_be
