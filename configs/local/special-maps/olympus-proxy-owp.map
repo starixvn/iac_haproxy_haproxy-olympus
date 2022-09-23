@@ -1,4 +1,4 @@
-/n1/ olympus_nap_owp_netcore_LOCAL1_be
-/n2/ olympus_nap_owp_netcore_LOCAL2_be
-/n3/ olympus_nap_owp_netcore_LOCAL3_be
-/ olympus_owp_LOCAL_be
+^/n1/ olympus_nap_owp_netcore_LOCAL1_be
+^/n2/ olympus_nap_owp_netcore_LOCAL2_be
+^/n3/ olympus_nap_owp_netcore_LOCAL3_be
+^/ olympus_owp_LOCAL_be
