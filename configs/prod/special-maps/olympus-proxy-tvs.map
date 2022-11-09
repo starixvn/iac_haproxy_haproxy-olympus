@@ -1,3 +1,4 @@
 ^/n1/ olympus_nap_tvs_website_PROD_be
 ^/v1/ olympus_nap_special_delete_PROD_be
 ^/v2/ olympus_nap_special_delete_PROD_be
+^/ empty_backend_nodes
