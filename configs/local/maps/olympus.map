@@ -31,3 +31,4 @@ msite2.nexdev.net olympus_nap_msite2_LOCAL_be
 #Olympus Internal
 nap_api_netcore.nexdev.net:8787 olympus_nap_api_netcore_LOCAL_be
 mail_service.nexdev.net:8787 olympus_mail_service_LOCAL_be
+napmailletstalk.nexdev.net  olympus_nap_mail_letstalk_service_LOCAL_be
