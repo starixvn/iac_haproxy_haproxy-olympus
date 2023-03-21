@@ -1,9 +1,8 @@
 napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
 #domain backendnames
-settle1.starixuat.com olympus_nap_settlement_UAT_1_be
-napsettlementcore2.starixuat.com olympus_nap_settlement_UAT_2_be
+settle1.starixuat.com olympus_nap_settlement_UAT_2_be
 settle3.starixuat.com olympus_nap_settlement_UAT_3_be
-napsettlementcore4.starixuat.com olympus_nap_settlement_UAT_4_be
+settle1.starixuat.com olympus_nap_settlement_UAT_4_be
 napsettlementcore5.starixuat.com olympus_nap_settlement_UAT_5_be
 prmscore.starixuat.com olympus_nap_prms_UAT_be
 aav1.starixuat.com olympus_nap_aa_UAT_1_be
