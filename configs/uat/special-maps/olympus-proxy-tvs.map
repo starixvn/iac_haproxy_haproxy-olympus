@@ -1,6 +1,6 @@
-^/n1/ olympus_nap_tvs_website_UAT_1_be
-^/n2/ olympus_nap_tvs_website_UAT_2_be
-^/n3/ olympus_nap_tvs_website_UAT_3_be
+^/n3(/.*)?$ olympus_nap_tvs_website_UAT_3_path_be
+^/n2(/.*)?$ olympus_nap_tvs_website_UAT_2_path_be
+^/n1(/.*)?$ olympus_nap_tvs_website_UAT_1_path_be
 ^/l1/ olympus_nap_special_delete_UAT_be
 ^/l2/ olympus_nap_special_delete_UAT_be
 ^/l3/ olympus_nap_special_delete_UAT_be
