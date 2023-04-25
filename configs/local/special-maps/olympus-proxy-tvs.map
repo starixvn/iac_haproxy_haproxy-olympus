@@ -1,4 +1,4 @@
-^/n1/ olympus_nap_tvs_website_LOCAL_1_be
+^/n1(/.*)?$ olympus_nap_tvs_website_LOCAL_1_path_be
 ^/n2/ olympus_nap_tvs_website_LOCAL_2_be
 ^/n3/ olympus_nap_tvs_website_LOCAL_3_be
 ^/l1/ olympus_nap_special_delete_LOCAL_be
