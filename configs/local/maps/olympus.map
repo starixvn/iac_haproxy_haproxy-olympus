@@ -1,19 +1,18 @@
-riskcontrol2.nexdev.net olympus_nap_risk_control_LOCAL_2_be
-riskcontrol1.nexdev.net olympus_nap_risk_control_LOCAL_1_be
 riskcontrol.nexdev.net olympus_nap_risk_control_LOCAL_be
-settle5.nexdev.net olympus_nap_settlement_LOCAL_5_be
+riskcontrol1.nexdev.net olympus_nap_risk_control_LOCAL_1_be
+riskcontrol2.nexdev.net olympus_nap_risk_control_LOCAL_2_be
+
 napsc.nexdev.net olympus_nap_adminnetcore_LOCAL_be
 mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
 netposition.nexdev.net olympus_nap_onebooknetpositionservice_LOCAL_be
-settle4.nexdev.net olympus_nap_settlement_LOCAL_4_be
 napmailfiles.nexdev.net olympus_nap_mail_downloadfile_LOCAL_be
 #Olympus
 msite.nexdev.net olympus_nap_msite_LOCAL_be
+settle5.nexdev.net olympus_nap_settlement_LOCAL_5_be
+settle4.nexdev.net olympus_nap_settlement_LOCAL_4_be
 settle3.nexdev.net olympus_nap_settlement_LOCAL_3_be
 settle2.nexdev.net olympus_nap_settlement_LOCAL_2_be
 settle1.nexdev.net olympus_nap_settlement_LOCAL_1_be
-settlement-netcore.nexdev.net olympus_nap_settlement_LOCAL1_be
-settlement.nexdev.net olympus_nap_settlement_LOCAL_be
 owp-netcore.nexdev.net olympus_nap_owp_netcore_LOCAL_be
 prms-core.nexdev.net olympus_prms_netcore_LOCAL_be
 prms-netcore-v1.nexdev.net olympus_prms_netcore_v1_LOCAL_be
