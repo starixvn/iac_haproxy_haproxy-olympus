@@ -1,15 +1,18 @@
 napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
 mountfile.starixuat.com olympus_nap_filebrowser_UAT_be
-settle2.starixuat.com olympus_nap_settlement_UAT_2_be
+
 settle4.starixuat.com olympus_nap_settlement_UAT_4_be
-settle1.starixuat.com olympus_nap_settlement_UAT_1_be
-napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
-#domain backendnames
 settle3.starixuat.com olympus_nap_settlement_UAT_3_be
-napsettlementcore5.starixuat.com olympus_nap_settlement_UAT_5_be
+settle2.starixuat.com olympus_nap_settlement_UAT_2_be
+settle1.starixuat.com olympus_nap_settlement_UAT_1_be
+
+napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
+
+#domain backendnames
+
 prmscore.starixuat.com olympus_nap_prms_UAT_be
 owp.starixuat.com olympus_nap_owp_UAT_be
 msite2.starixuat.com olympus_nap_msite2_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
-#
+
 riskcontrol.starixuat.com olympus_nap_risk_control_UAT_be
