@@ -1,6 +1,3 @@
-^/n3(/.*)?$ olympus_nap_tvs_website_LOCAL_3_path_be
-^/n2(/.*)?$ olympus_nap_tvs_website_LOCAL_2_path_be
-^/n1(/.*)?$ olympus_nap_tvs_website_LOCAL_1_path_be
 ^/l1/ olympus_nap_special_delete_LOCAL_be
 ^/l2/ olympus_nap_special_delete_LOCAL_be
 ^/l3/ olympus_nap_special_delete_LOCAL_be
@@ -9,4 +6,3 @@
 ^/l6/ olympus_nap_special_delete_LOCAL_be
 ^/service/ olympus_nap_tvs_aftervoid_service_LOCAL_be
 ^/service1/ olympus_nap_tvs_aftervoid_service_LOCAL_1_be
-^/ olympus_nap_tvs_website_LOCAL_path_be
