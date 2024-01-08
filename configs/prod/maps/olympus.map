@@ -1,3 +1,4 @@
+migrationtesting02.oneops.net olympus_nap_msitenet8_PROD_be
 vn-fanexdataservice-prod.nebula.prod olympus_nap_fanexdataservice_PROD_be
 napsc.oneops.net olympus_nap_adminnetcore_PROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_PROD_be
@@ -17,5 +18,4 @@ riskcontrol2.oneops.net olympus_nap_risk_control_PROD_be
 riskcontrol3.oneops.net olympus_nap_risk_control_PROD_be
 napmailletstalk.starixplay.com olympus_nap_mail_letstalk_service_PROD_be
 migrationtesting01.oneops.net olympus_nap_dw_web_PROD_be
-migrationtesting02.oneops.net olympus_nap_filebrowser_PROD_be
 #
