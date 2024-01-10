@@ -1,3 +1,5 @@
+migrationtesting01.starixuat.com olympus_nap_dw_web_UAT_be
+datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
 msite.starixuat.com olympus_nap_msitenet8_UAT_be
 tvs3.starixuat.com olympus_nap_tvs_website_UAT_3_be
 tvs2.starixuat.com olympus_nap_tvs_website_UAT_2_be
@@ -22,5 +24,4 @@ msite2.starixuat.com olympus_nap_msite2_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
 
 riskcontrol.starixuat.com olympus_nap_risk_control_UAT_be
-migrationtesting01.starixuat.com olympus_nap_dw_web_UAT_be
 #
