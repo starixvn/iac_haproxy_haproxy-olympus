@@ -1,3 +1,4 @@
+prms-core.nexdev.net olympus_nap_parlay_rms_LOCAL_be
 datawarehouse.nexdev.net olympus_nap_dw_web_LOCAL_be
 msite.nexdev.net olympus_nap_msitenet8_LOCAL_be
 tvs4.nexdev.net olympus_nap_tvs_website_LOCAL_4_be
@@ -22,7 +23,6 @@ settle3.nexdev.net olympus_nap_settlement_LOCAL_3_be
 settle2.nexdev.net olympus_nap_settlement_LOCAL_2_be
 settle1.nexdev.net olympus_nap_settlement_LOCAL_1_be
 owp-netcore.nexdev.net olympus_nap_owp_netcore_LOCAL_be
-prms-core.nexdev.net olympus_prms_netcore_LOCAL_be
 prms-netcore-v1.nexdev.net olympus_prms_netcore_v1_LOCAL_be
 devnotes.nexdev.net olympus_devnotes_LOCAL_be
 owp.nexdev.net olympus_owp_LOCAL_be
