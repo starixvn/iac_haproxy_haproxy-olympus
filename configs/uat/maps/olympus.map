@@ -1,3 +1,4 @@
+prmscore.starixuat.com olympus_nap_parlay_rms_UAT_be
 msite.starixuat.com olympus_nap_msitenet8_UAT_be
 migrationtesting02.starixuat.com olympus_nap_msitenet8_UAT_be
 datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
@@ -17,7 +18,6 @@ napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
 
 #domain backendnames
 
-prmscore.starixuat.com olympus_nap_prms_UAT_be
 owp.starixuat.com olympus_nap_owp_UAT_be
 msite2.starixuat.com olympus_nap_msite2_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
