@@ -1,9 +1,9 @@
+migrationtesting02.oneops.net olympus_nap_fanexdataservice_PROD_be
 parlayrms.oneops.net olympus_nap_parlay_rms_PROD_be
 datawarehouse.oneops.net olympus_nap_dw_web_PROD_be
 tvs.oneops.net olympus_nap_tvs_website_PROD_be
 tvs2.oneops.net olympus_nap_tvs_website_PROD_be
 msite.oneops.net olympus_nap_msitenet8_PROD_be
-vn-fanexdataservice-prod.nebula.prod olympus_nap_fanexdataservice_PROD_be
 napsc.oneops.net olympus_nap_adminnetcore_PROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_PROD_be
 settle.oneops.net olympus_nap_settlement_PROD_be
