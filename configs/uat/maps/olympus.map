@@ -1,3 +1,4 @@
+vn-fanexdataservice-uat.nebula.prod olympus_nap_fanexdataservice_UAT_be
 reportnet.starixuat.com olympus_nap_reports_UAT_be
 mountfile.starixuat.com olympus_nap_filebrowser_UAT_be
 parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
@@ -7,7 +8,6 @@ datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
 tvs2.starixuat.com olympus_nap_tvs_website_UAT_2_be
 tvs1.starixuat.com olympus_nap_tvs_website_UAT_1_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
-vn-fanexdataservice-uat.nebula.prod olympus_nap_fanexdataservice_UAT_be
 napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
 
 settle4.starixuat.com olympus_nap_settlement_UAT_4_be
