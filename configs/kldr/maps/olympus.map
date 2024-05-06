@@ -1,3 +1,4 @@
+prmscore.byb6181.com olympus_nap_parlay_rms_KLDR_be
 owp-service.gamora.prod olympus_nap_owp_service_KLDR_be
 napdw.byb6181.com olympus_nap_dw_web_KLDR_be
 vn-fanexdataservice.gamora.prod olympus_nap_fanexdataservice_KLDR_be
@@ -7,7 +8,6 @@ napmailfiles.byb6181.com olympus_nap_mail_downloadfile_KLDR_be
 mountfile.byb6181.com olympus_nap_filebrowser_KLDR_be
 napsc.byb6181.com olympus_nap_adminnetcore_KLDR_be
 riskcontrol.byb6181.com olympus_nap_risk_control_KLDR_be
-prmscore.byb6181.com olympus_nap_parlay_rms_KLDR_be
 parlayrms.byb6181.com olympus_nap_parlayrms_KLDR_be
 datawarehouse.byb6181.com olympus_datawarehouse_KLDR_be
 reports.byb6181.com olympus_reports_KLDR_be
