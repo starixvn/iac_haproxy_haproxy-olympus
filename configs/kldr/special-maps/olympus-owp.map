@@ -1,3 +1,2 @@
 ^/v1(/.*)?$ olympus_nap_owp_KLDR_be
-^/n1(/.*)?$ olympus_nap_owp_netcore_KLDR_be
 ^/ empty_backend_nodes
