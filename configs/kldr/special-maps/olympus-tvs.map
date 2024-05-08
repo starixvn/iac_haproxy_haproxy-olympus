@@ -1,3 +1,2 @@
 ^/v1(/.*)?$ olympus_nap_special_delete_KLDR_be
-^/n1(/.*)?$ olympus_nap_tvs_website_KLDR_be
 ^/ empty_backend_nodes
