@@ -1,3 +1,4 @@
+riskcontrol.playonesit.com olympus_nap_risk_control_SIT_be
 tvs2.playonesit.com olympus_nap_tvs_website_SIT_2_be
 tvs1.playonesit.com olympus_nap_tvs_website_SIT_1_be
 tvs.playonesit.com olympus_nap_tvs_website_SIT_be
@@ -12,7 +13,6 @@ parlayrms.playthefun.com olympus_nap_parlay_rms_SIT_be
 datawarehouse.playthefun.com olympus_nap_dw_web_SIT_be
 tvs3.playthefun.com olympus_nap_tvs_website_SIT_3_be
 mountfile.playthefun.com olympus_nap_filebrowser_SIT_be
-riskcontrol.playthefun.com olympus_nap_risk_control_SIT_be
 #OLYMPUS
 settle-3rd-api.playthefun.com olympus_nap_settlement_broadcastapi_SIT_be
 msite2.playthefun.com olympus_nap_msite2_SIT_be
