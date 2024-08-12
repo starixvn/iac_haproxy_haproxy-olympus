@@ -1,7 +1,7 @@
+vn-settle-external-api.nebula.prod olympus_nap_settlement_external_api_PROD_be
 vn-fanexdataservicenexus-prod.nebula.prod olympus_nap_fanexdataservice_PROD_1_be
 vn-fanexdataservicewasa-prod.nebula.prod olympus_nap_fanexdataservice_PROD_2_be
 vn-napmailexternalapi-prod.nebula.prod olympus_nap_mail_external_api_PROD_be
-vn-settle-external-api.nebula.prod olympus_nap_settlement_external_api_PROD_be
 owp2.oneops.net olympus_nap_owp_PROD_2_be
 reportnet.oneops.net olympus_nap_reports_PROD_be
 migrationtesting02.oneops.net olympus_nap_fanexdataservice_PROD_be
