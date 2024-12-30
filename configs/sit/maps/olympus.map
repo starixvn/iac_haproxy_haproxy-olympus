@@ -9,6 +9,7 @@ reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 riskcontrol.playonesit.com olympus_nap_risk_control_SIT_be
 settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
+settle-setting.playonesit.com olympus_nap_settlement_clonedata_api_SIT_be
 settle1.playonesit.com olympus_nap_settlement_SIT_1_be
 settle2.playonesit.com olympus_nap_settlement_SIT_2_be
 settle3.playonesit.com olympus_nap_settlement_SIT_3_be
