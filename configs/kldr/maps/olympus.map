@@ -1,3 +1,4 @@
+reports.byb6181.com olympus_nap_reports_KLDR_be
 owp.byb6181.com olympus_nap_owp_KLDR_be
 owp-service.gamora.prod olympus_nap_owp_KLDR_be
 msite.byb6181.com olympus_nap_msitenet8_KLDR_be
@@ -13,5 +14,4 @@ mountfile.byb6181.com olympus_nap_filebrowser_KLDR_be
 napsc.byb6181.com olympus_nap_adminnetcore_KLDR_be
 riskcontrol.byb6181.com olympus_nap_risk_control_KLDR_be
 datawarehouse.byb6181.com olympus_datawarehouse_KLDR_be
-reports.byb6181.com olympus_reports_KLDR_be
 settle-support.byb6181.com olympus_settlement_support_KLDR_be
