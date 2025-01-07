@@ -1,5 +1,7 @@
 reportnet.oneops.net olympus_nap_reports_PROD_be
 reports.oneops.net olympus_nap_reports_PROD_be
+reports2.oneops.net olympus_nap_reports_PROD_be
+reports3.oneops.net olympus_nap_reports_PROD_be
 datawarehouse.oneops.net olympus_nap_dw_web_PROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_PROD_be
 msite.oneops.net olympus_nap_msitenet8_PROD_be
