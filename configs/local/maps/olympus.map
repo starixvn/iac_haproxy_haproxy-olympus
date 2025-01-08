@@ -1,3 +1,4 @@
+reports.nexdev.net olympus_nap_reports_LOCAL_be
 datawarehouse.nexdev.net olympus_nap_dw_web_LOCAL_be
 devnotes.nexdev.net olympus_devnotes_LOCAL_be
 externalapi.nexdev.net olympus_nap_mail_external_api_LOCAL_be
@@ -21,7 +22,6 @@ owp2.nexdev.net olympus_nap_owp_LOCAL_2_be
 owp3.nexdev.net olympus_nap_owp_LOCAL_3_be
 parlayrms.nexdev.net olympus_nap_parlay_rms_LOCAL_be
 parlayrms1.nexdev.net olympus_nap_parlay_rms_LOCAL_1_be
-reportnet.nexdev.net olympus_nap_reports_LOCAL_be
 reward-wallet-api-1.nexdev.net olympus_nap_reward_wallet_api_LOCAL_1_be
 reward-wallet-api.nexdev.net olympus_nap_reward_wallet_api_LOCAL_be
 riskcontrol.nexdev.net olympus_nap_risk_control_LOCAL_be
