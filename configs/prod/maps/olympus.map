@@ -1,9 +1,9 @@
-settle.oneops.net olympus_nap_settlement_PROD_be
-settle2.oneops.net olympus_nap_settlement_PROD_2_be
 vn-fanexdataservicewasa-prod.nebula.prod olympus_nap_fanexdataservice_PROD_2_be
 vn-fanexdataservicenexus-prod.nebula.prod olympus_nap_fanexdataservice_PROD_1_be
 vn-fanexdataservice-prod.nebula.prod olympus_nap_fanexdataservice_PROD_be
 vn-fanexdataservice-prod-12b.nebula.prod olympus_nap_fanexdataservice_PROD_be
+settle.oneops.net olympus_nap_settlement_PROD_be
+settle2.oneops.net olympus_nap_settlement_PROD_2_be
 reports.oneops.net olympus_nap_reports_PROD_be
 reports2.oneops.net olympus_nap_reports_PROD_be
 reports3.oneops.net olympus_nap_reports_PROD_be
