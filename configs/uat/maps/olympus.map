@@ -1,3 +1,4 @@
+settle2.starixuat.com olympus_nap_settlement_UAT_2_be
 vn-settle-internal-api-uat.nebula.prod olympus_nap_settlement_internal_api_UAT_be
 reports.starixuat.com olympus_nap_reports_UAT_be
 datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
@@ -14,7 +15,6 @@ owp3.starixuat.com olympus_nap_owp_UAT_3_be
 parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
 riskcontrol.starixuat.com olympus_nap_risk_control_UAT_be
 settle1.starixuat.com olympus_nap_settlement_UAT_1_be
-settle2.starixuat.com olympus_nap_settlement_UAT_2_be
 settle3.starixuat.com olympus_nap_settlement_UAT_3_be
 settle4.starixuat.com olympus_nap_settlement_UAT_4_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
