@@ -1,3 +1,5 @@
+owp1.starixuat.com olympus_nap_owp_UAT_1_be
+owp1.starix-uat.nebula.prod olympus_nap_owp_UAT_1_be
 heavyinternalapi.starix-uat.nebula.prod olympus_nap_heavyinternalapi_UAT_be
 settle2.starixuat.com olympus_nap_settlement_UAT_2_be
 vn-settle-internal-api-uat.nebula.prod olympus_nap_settlement_internal_api_UAT_be
@@ -10,7 +12,6 @@ msite2.starixuat.com olympus_nap_msite2_UAT_be
 napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
 napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
-owp1.starixuat.com olympus_nap_owp_UAT_1_be
 owp2.starixuat.com olympus_nap_owp_UAT_2_be
 owp3.starixuat.com olympus_nap_owp_UAT_3_be
 parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
