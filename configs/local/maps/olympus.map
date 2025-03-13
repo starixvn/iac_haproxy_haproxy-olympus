@@ -1,3 +1,5 @@
+nap_api_dev.nexdev.net olympus_nap_nap_api_netcore_LOCAL_1_be
+heavyinternalapi.starix-local.nexdev.net olympus_nap_heavyinternalapi_LOCAL_be
 mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
 file.starix-local.nexdev.net olympus_nap_filebrowser_LOCAL_be
 file.starix.local.dev olympus_nap_filebrowser_LOCAL_be
@@ -13,7 +15,6 @@ msite.nexdev.net olympus_nap_msitenet8_LOCAL_be
 msite2.nexdev.net olympus_nap_msite2_LOCAL_be
 nap-report.nexdev.net olympus_nap_report_LOCAL_be
 nap_api_netcore.nexdev.net:8787 olympus_nap_api_netcore_LOCAL_be
-nap_api_netcore1.nexdev.net olympus_nap_nap_api_netcore_LOCAL_1_be
 napmailfiles.nexdev.net olympus_nap_mail_downloadfile_LOCAL_be
 napmailletstalk.nexdev.net  olympus_nap_mail_letstalk_service_LOCAL_be
 napsc.nexdev.net olympus_nap_adminnetcore_LOCAL_be
