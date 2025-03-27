@@ -1,4 +1,3 @@
-chat.owp.nexdev.net olympus_nap_owp_chat_LOCAL_be
 nap_api_dev.nexdev.net olympus_nap_nap_api_netcore_LOCAL_1_be
 heavyinternalapi.starix-local.nexdev.net olympus_nap_heavyinternalapi_LOCAL_be
 mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
@@ -22,7 +21,6 @@ napsc.nexdev.net olympus_nap_adminnetcore_LOCAL_be
 napsc1.nexdev.net olympus_nap_adminnetcore_LOCAL_1_be
 nap-settlement-setting.nexdev.net olympus_nap_settlement_clonedata_api_LOCAL_be
 olympusmonitoring.nexdev.net olympus_nap_olympus_monitoring_LOCAL_be
-owp1.nexdev.net olympus_nap_owp_LOCAL_1_be
 owp2.nexdev.net olympus_nap_owp_LOCAL_2_be
 owp3.nexdev.net olympus_nap_owp_LOCAL_3_be
 parlayrms.nexdev.net olympus_nap_parlay_rms_LOCAL_be
