@@ -1,3 +1,5 @@
+vn-reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
+reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 heavyinternalapi.starix-sit.nebula.sit olympus_nap_heavyinternalapi_SIT_be
 vn-settle-internal-api.playonesit.com olympus_nap_settlement_internal_api_SIT_be
 mountfile.playonesit.com olympus_nap_filebrowser_SIT_be
@@ -8,7 +10,6 @@ msite2.playonesit.com olympus_nap_msite2_SIT_be
 napmailletstalk.playonesit.com olympus_nap_mail_letstalk_service_SIT_be
 napsc.playonesit.com olympus_nap_adminnetcore_SIT_be
 parlayrms.playthefun.com olympus_nap_parlay_rms_SIT_be
-reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 riskcontrol.playonesit.com olympus_nap_risk_control_SIT_be
 settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
@@ -22,5 +23,4 @@ tvs1.playonesit.com olympus_nap_tvs_website_SIT_1_be
 tvs2.playonesit.com olympus_nap_tvs_website_SIT_2_be
 tvs3.playthefun.com olympus_nap_tvs_website_SIT_3_be
 vn-fanexdataservice.playonesit.com olympus_nap_fanexdataservice_SIT_be
-vn-reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
-vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
+vn-vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
