@@ -1,3 +1,4 @@
+settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 vn-reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 reward-wallet-api.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 heavyinternalapi.starix-sit.nebula.sit olympus_nap_heavyinternalapi_SIT_be
@@ -11,7 +12,6 @@ napmailletstalk.playonesit.com olympus_nap_mail_letstalk_service_SIT_be
 napsc.playonesit.com olympus_nap_adminnetcore_SIT_be
 parlayrms.playthefun.com olympus_nap_parlay_rms_SIT_be
 riskcontrol.playonesit.com olympus_nap_risk_control_SIT_be
-settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
 settle-setting.playonesit.com olympus_nap_settlement_clonedata_api_SIT_be
 settle1.playonesit.com olympus_nap_settlement_SIT_1_be
