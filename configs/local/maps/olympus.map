@@ -1,10 +1,11 @@
+chat.nexdev.net olympus_nap_owp_chat_LOCAL_be
+chat-internal.nexdev.net olympus_nap_owp_chat_LOCAL_be
 jitsiweb.nexdev.net olympus_nap_owp_jitsi_web_LOCAL_be
 jvb.nexdev.net olympus_nap_owp_jitsi_jvb_LOCAL_be
 jicofo.nexdev.net olympus_nap_owp_jitsi_jicofo_LOCAL_be
 prosody.nexdev.net olympus_nap_owp_jitsi_prosody_LOCAL_be
 mattermost-service.nexdev.net olympus_nap_mail_mattermost_service_LOCAL_be
 cwlanalysis.nexdev.net olympus_nap_mail_cwl_analysis_LOCAL_be
-chat.nexdev.net olympus_nap_owp_chat_LOCAL_be
 cursor.nexdev.net olympus_nap_cursorstatistic_LOCAL_be
 owp1.nexdev.net olympus_nap_owp_LOCAL_1_be
 nap_api_dev.nexdev.net olympus_nap_nap_api_netcore_LOCAL_1_be
