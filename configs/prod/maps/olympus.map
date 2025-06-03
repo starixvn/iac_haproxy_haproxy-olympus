@@ -1,10 +1,11 @@
+chat.oneops.net olympus_nap_owp_chat_PROD_be
+hi.tawkwith.com olympus_nap_owp_chat_PROD_be
 tvs.oneops.net olympus_nap_tvs_website_PROD_be
 tvs2.oneops.net olympus_nap_tvs_website_PROD_be
 tvs.starix-prod.nebula.prod olympus_nap_tvs_website_PROD_be
 mattermost-synergy.starix-prod.nebula.prod olympus_nap_mail_mattermost_service_PROD_be
 vn-reward-wallet-api.nebula.prod olympus_nap_reward_wallet_api_PROD_be
 vn-reward-wallet-api.oneops.net olympus_nap_reward_wallet_api_PROD_be
-chat.oneops.net olympus_nap_owp_chat_PROD_be
 heavyinternalapi.starix-prod.nebula.prod olympus_nap_heavyinternalapi_PROD_be
 vn-settle-internal-api.nebula.prod olympus_nap_settlement_internal_api_PROD_be
 vn-fanexdataservicewasa-prod.nebula.prod olympus_nap_fanexdataservice_PROD_2_be
