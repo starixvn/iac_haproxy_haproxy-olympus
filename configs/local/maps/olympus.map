@@ -1,4 +1,3 @@
-nap_api_netcore.nexdev.net olympus_nap_nap_api_netcore_LOCAL_be
 napapi.nexdev.net olympus_nap_nap_api_netcore_LOCAL_be
 rocketchat-service.nexdev.net olympus_nap_mail_rocket_chat_service_LOCAL_be
 jitsiweb.nexdev.net olympus_nap_owp_jitsi_web_LOCAL_be
@@ -11,7 +10,6 @@ mattermost-service.nexdev.net olympus_nap_mail_mattermost_service_LOCAL_be
 cwlanalysis.nexdev.net olympus_nap_mail_cwl_analysis_LOCAL_be
 cursor.nexdev.net olympus_nap_cursorstatistic_LOCAL_be
 owp1.nexdev.net olympus_nap_owp_LOCAL_1_be
-nap_api_dev.nexdev.net olympus_nap_nap_api_netcore_LOCAL_1_be
 heavyinternalapi.starix-local.nexdev.net olympus_nap_heavyinternalapi_LOCAL_be
 mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
 file.starix-local.nexdev.net olympus_nap_filebrowser_LOCAL_be
