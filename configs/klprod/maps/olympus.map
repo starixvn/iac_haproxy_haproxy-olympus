@@ -1,3 +1,6 @@
+mountfile-klp.starixplay.com olympus_nap_filebrowser_KLPROD_be
+mountfile.starixplay.com olympus_nap_filebrowser_KLPROD_be
+mountfile.oneops.net olympus_nap_filebrowser_KLPROD_be
 napdw-klp.starixplay.com olympus_nap_dw_web_KLPROD_be
 datawarehouse.oneops.net olympus_nap_dw_web_KLPROD_be
 tvs-klp.starixplay.com olympus_nap_tvs_website_KLPROD_be
@@ -6,10 +9,6 @@ tvs2.oneops.net olympus_nap_tvs_website_KLPROD_be
 tvs.starix-klprod.gamora.prod olympus_nap_tvs_website_KLPROD_be
 riskcontrol-klp.starixplay.com olympus_nap_risk_control_KLPROD_be
 riskcontrol.oneops.net olympus_nap_risk_control_KLPROD_be
-vn-migration01-klp.starixplay.com olympus_nap_filebrowser_KLPROD_be
-mountfile-klp.starixplay.com olympus_nap_filebrowser_KLPROD_be
-mountfile.starixplay.com olympus_nap_filebrowser_KLPROD_be
-mountfile.oneops.net olympus_nap_filebrowser_KLPROD_be
 reports-klp.starixplay.com olympus_nap_reports_KLPROD_be
 reports.oneops.net olympus_nap_reports_KLPROD_be
 parlayrms-klp.starixplay.com olympus_nap_parlay_rms_KLPROD_be
