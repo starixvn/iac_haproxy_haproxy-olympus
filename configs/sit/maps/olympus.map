@@ -1,4 +1,4 @@
-settlement-support-testing.playonesit.com olympus_nap_settlement_support_testing_SIT_be
+settle-setting.playonesit.com olympus_nap_settlement_support_testing_SIT_be
 napapi.starix-sit.nebula.sit olympus_nap_nap_api_netcore_SIT_be
 settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
 vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
@@ -16,7 +16,6 @@ napmailletstalk.playonesit.com olympus_nap_mail_letstalk_service_SIT_be
 napsc.playonesit.com olympus_nap_adminnetcore_SIT_be
 parlayrms.playthefun.com olympus_nap_parlay_rms_SIT_be
 riskcontrol.playonesit.com olympus_nap_risk_control_SIT_be
-settle-setting.playonesit.com olympus_nap_settlement_clonedata_api_SIT_be
 settle1.playonesit.com olympus_nap_settlement_SIT_1_be
 settle2.playonesit.com olympus_nap_settlement_SIT_2_be
 settle3.playonesit.com olympus_nap_settlement_SIT_3_be
