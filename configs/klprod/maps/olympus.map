@@ -1,3 +1,5 @@
+vn-settle-internal-api.gamora.prod olympus_nap_settlement_internal_api_KLPROD_be
+vn-settle-internal-api.starix-klprod.gamora.prod olympus_nap_settlement_internal_api_KLPROD_be
 vn-settle-external-api.starix-klprod.gamora.prod olympus_nap_settlement_external_api_KLPROD_be
 msite-klp.starixplay.com olympus_nap_msitenet8_KLPROD_be
 msite.oneops.net olympus_nap_msitenet8_KLPROD_be
@@ -45,8 +47,6 @@ owp-klp.starixplay.com olympus_nap_owp_KLPROD_be
 owp-service.starix-klprod.gamora.prod olympus_nap_owp_KLPROD_be
 napmailletstalk.starix-klprod.gamora.prod olympus_nap_mail_letstalk_service_KLPROD_be
 napmailservice.starix-klprod.gamora.prod olympus_nap_mail_mail_service_KLPROD_be
-vn-settle-internal-api.gamora.prod olympus_nap_settlement_internal_api_KLPROD_be
-vn-settle-internal-api.starix-klprod.gamora.prod olympus_nap_settlement_internal_api_KLPROD_be
 onebookum.starix-klprod.gamora.prod olympus_fanex_um_KLPROD_be
 fanexdataservice.starix-klprod.gamora.prod olympus_nap_fanexdataservice_KLPROD_be
 #
