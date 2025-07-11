@@ -1,3 +1,4 @@
+msite.starixuat.com olympus_nap_msitenet8_UAT_be
 tvs2.starixuat.com olympus_nap_tvs_website_UAT_2_be
 tvs1.starixuat.com olympus_nap_tvs_website_UAT_1_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
@@ -18,7 +19,6 @@ reports.starixuat.com olympus_nap_reports_UAT_be
 datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
 migrationtesting02.starixuat.com olympus_nap_settlement_external_api_UAT_be
 mountfile.starixuat.com olympus_nap_filebrowser_UAT_be
-msite.starixuat.com olympus_nap_msitenet8_UAT_be
 msite2.starixuat.com olympus_nap_msite2_UAT_be
 napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
