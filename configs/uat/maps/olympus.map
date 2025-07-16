@@ -1,3 +1,7 @@
+settle4.starixuat.com olympus_nap_settlement_UAT_4_be
+settle3.starixuat.com olympus_nap_settlement_UAT_3_be
+settle2.starixuat.com olympus_nap_settlement_UAT_2_be
+settle1.starixuat.com olympus_nap_settlement_UAT_1_be
 tvs2.starixuat.com olympus_nap_tvs_website_UAT_2_be
 tvs1.starixuat.com olympus_nap_tvs_website_UAT_1_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
@@ -13,7 +17,6 @@ migrationtesting01.starixuat.com olympus_nap_reports_UAT_1_be
 owp1.starixuat.com olympus_nap_owp_UAT_1_be
 owp1.starix-uat.nebula.prod olympus_nap_owp_UAT_1_be
 heavyinternalapi.starix-uat.nebula.prod olympus_nap_heavyinternalapi_UAT_be
-settle2.starixuat.com olympus_nap_settlement_UAT_2_be
 vn-settle-internal-api-uat.nebula.prod olympus_nap_settlement_internal_api_UAT_be
 reports.starixuat.com olympus_nap_reports_UAT_be
 datawarehouse.starixuat.com olympus_nap_dw_web_UAT_be
@@ -26,9 +29,6 @@ owp2.starixuat.com olympus_nap_owp_UAT_2_be
 owp3.starixuat.com olympus_nap_owp_UAT_3_be
 parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
 riskcontrol.starixuat.com olympus_nap_risk_control_UAT_be
-settle1.starixuat.com olympus_nap_settlement_UAT_1_be
-settle3.starixuat.com olympus_nap_settlement_UAT_3_be
-settle4.starixuat.com olympus_nap_settlement_UAT_4_be
 vn-fanexdataservice-uat.nebula.prod olympus_nap_fanexdataservice_UAT_be
 vn-napmailexternalapi-uat.nebula.prod olympus_nap_mail_external_api_UAT_be
 vn-settle-external-api-uat.nebula.prod olympus_nap_settlement_external_api_UAT_be
