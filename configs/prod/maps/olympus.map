@@ -1,3 +1,4 @@
+reports3.oneops.net olympus_nap_reports_PROD_1_be
 hi.tawkwith.com olympus_nap_owp_chat_PROD_be
 rocketchat-synergy.starix-prod.nebula.prod olympus_nap_mail_rocket_chat_service_PROD_be
 tvs.oneops.net olympus_nap_tvs_website_PROD_be
@@ -16,7 +17,6 @@ settle.oneops.net olympus_nap_settlement_PROD_be
 settle2.oneops.net olympus_nap_settlement_PROD_2_be
 reports.oneops.net olympus_nap_reports_PROD_be
 reports2.oneops.net olympus_nap_reports_PROD_be
-reports3.oneops.net olympus_nap_reports_PROD_be
 datawarehouse.oneops.net olympus_nap_dw_web_PROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_PROD_be
 msite.oneops.net olympus_nap_msitenet8_PROD_be
