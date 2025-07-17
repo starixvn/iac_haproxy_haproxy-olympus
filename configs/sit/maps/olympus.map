@@ -1,3 +1,4 @@
+settle-setting.playonesit.com olympus_nap_settlement_support_testing_SIT_be
 settle4.playonesit.com olympus_nap_settlement_SIT_4_be
 settle3.playonesit.com olympus_nap_settlement_SIT_3_be
 settle2.playonesit.com olympus_nap_settlement_SIT_2_be
@@ -9,7 +10,6 @@ tvs.playonesit.com olympus_nap_tvs_website_SIT_be
 msite.playonesit.com olympus_nap_msitenet8_SIT_be
 napsc.playonesit.com olympus_nap_adminnetcore_SIT_be
 napapi.starix-sit.nebula.sit olympus_nap_nap_api_netcore_SIT_be
-settle-setting.playonesit.com olympus_nap_settlement_support_testing_SIT_be
 settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
 vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
 settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
