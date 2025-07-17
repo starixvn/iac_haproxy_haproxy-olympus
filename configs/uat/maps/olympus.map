@@ -1,3 +1,4 @@
+napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
 settle4.starixuat.com olympus_nap_settlement_UAT_4_be
 settle3.starixuat.com olympus_nap_settlement_UAT_3_be
 settle2.starixuat.com olympus_nap_settlement_UAT_2_be
@@ -7,7 +8,6 @@ tvs1.starixuat.com olympus_nap_tvs_website_UAT_1_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
 tvs.starix-uat.nebula.prod olympus_nap_tvs_website_UAT_be
 msite.starixuat.com olympus_nap_msitenet8_UAT_be
-napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
 napapi.starix-uat.nebula.prod olympus_nap_nap_api_netcore_UAT_be
 rocketchat-synergy.starix-uat.nebula.prod olympus_nap_mail_rocket_chat_service_UAT_be
 mattermost-synergy.starix-uat.nebula.prod olympus_nap_mail_mattermost_service_UAT_be
