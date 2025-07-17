@@ -1,3 +1,4 @@
+parlayrms.kl.starixuat.com olympus_nap_parlay_rms_UAT_be
 settle-setting.kl.starixuat.com olympus_nap_settlement_support_testing_UAT_be
 riskcontrol.kl.starixuat.com olympus_nap_risk_control_UAT_be
 settle4.kl.starixuat.com olympus_nap_settlement_UAT_4_be
@@ -34,6 +35,5 @@ napmailfiles.starixuat.com olympus_nap_mail_downloadfile_UAT_be
 napmailletstalk.starixuat.com  olympus_nap_mail_letstalk_service_UAT_be
 owp2.starixuat.com olympus_nap_owp_UAT_2_be
 owp3.starixuat.com olympus_nap_owp_UAT_3_be
-parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
 vn-napmailexternalapi-uat.nebula.prod olympus_nap_mail_external_api_UAT_be
 vn-settle-external-api-uat.nebula.prod olympus_nap_settlement_external_api_UAT_be
