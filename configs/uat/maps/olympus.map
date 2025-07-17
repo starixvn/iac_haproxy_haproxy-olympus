@@ -1,3 +1,4 @@
+fanexdataservice.st-kluat.gamora.prod olympus_nap_fanexdataservice_UAT_be
 napsc.starixuat.com olympus_nap_adminnetcore_UAT_be
 settle4.starixuat.com olympus_nap_settlement_UAT_4_be
 settle3.starixuat.com olympus_nap_settlement_UAT_3_be
@@ -29,6 +30,5 @@ owp2.starixuat.com olympus_nap_owp_UAT_2_be
 owp3.starixuat.com olympus_nap_owp_UAT_3_be
 parlayrms.starixuat.com olympus_nap_parlay_rms_UAT_be
 riskcontrol.starixuat.com olympus_nap_risk_control_UAT_be
-vn-fanexdataservice-uat.nebula.prod olympus_nap_fanexdataservice_UAT_be
 vn-napmailexternalapi-uat.nebula.prod olympus_nap_mail_external_api_UAT_be
 vn-settle-external-api-uat.nebula.prod olympus_nap_settlement_external_api_UAT_be
