@@ -1,3 +1,5 @@
+reports2.kl.starixuat.com olympus_nap_reports_UAT_2_be
+reports1.kl.starixuat.com olympus_nap_reports_UAT_1_be
 reports.kl.starixuat.com olympus_nap_reports_UAT_be
 napsc.kl.starixuat.com olympus_nap_adminnetcore_UAT_be
 fanexdataservice.st-kluat.gamora.prod olympus_nap_fanexdataservice_UAT_be
@@ -15,7 +17,6 @@ rocketchat-synergy.starix-uat.nebula.prod olympus_nap_mail_rocket_chat_service_U
 mattermost-synergy.starix-uat.nebula.prod olympus_nap_mail_mattermost_service_UAT_be
 chat.starixuat.com olympus_nap_owp_chat_UAT_be
 vn-reward-wallet-api-uat.nebula.prod olympus_nap_reward_wallet_api_UAT_be
-migrationtesting01.starixuat.com olympus_nap_reports_UAT_1_be
 owp1.starixuat.com olympus_nap_owp_UAT_1_be
 owp1.starix-uat.nebula.prod olympus_nap_owp_UAT_1_be
 heavyinternalapi.starix-uat.nebula.prod olympus_nap_heavyinternalapi_UAT_be
