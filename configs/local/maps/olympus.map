@@ -1,3 +1,9 @@
+settle-auto-testing.nexdev.net olympus_nap_settlement_LOCAL_6_be
+settle5.nexdev.net olympus_nap_settlement_LOCAL_5_be
+settle4.nexdev.net olympus_nap_settlement_LOCAL_4_be
+settle3.nexdev.net olympus_nap_settlement_LOCAL_3_be
+settle2.nexdev.net olympus_nap_settlement_LOCAL_2_be
+settle1.nexdev.net olympus_nap_settlement_LOCAL_1_be
 fanexdataservices.nexdev.net olympus_nap_fanexdataservice_LOCAL_be
 tvs4.nexdev.net olympus_nap_tvs_website_LOCAL_4_be
 tvs3.nexdev.net olympus_nap_tvs_website_LOCAL_3_be
@@ -8,7 +14,6 @@ msite.nexdev.net olympus_nap_msitenet8_LOCAL_be
 napsc.nexdev.net olympus_nap_adminnetcore_LOCAL_be
 nap_api_netcore.nexdev.net olympus_nap_nap_api_netcore_LOCAL_be
 napapi.nexdev.net olympus_nap_nap_api_netcore_LOCAL_be
-settle-auto-testing.nexdev.net olympus_nap_settlement_LOCAL_6_be
 settle-setting.nexdev.net olympus_nap_settlement_support_testing_LOCAL_be
 rocketchat-service.nexdev.net olympus_nap_mail_rocket_chat_service_LOCAL_be
 jitsiweb.nexdev.net olympus_nap_owp_jitsi_web_LOCAL_be
@@ -50,9 +55,4 @@ riskcontrol1.nexdev.net olympus_nap_risk_control_LOCAL_1_be
 riskcontrol2.nexdev.net olympus_nap_risk_control_LOCAL_2_be
 settle-external-api.nexdev.net olympus_nap_settlement_external_api_LOCAL_be
 settle-internal-api.nexdev.net olympus_nap_settlement_internal_api_LOCAL_be
-settle1.nexdev.net olympus_nap_settlement_LOCAL_1_be
-settle2.nexdev.net olympus_nap_settlement_LOCAL_2_be
-settle3.nexdev.net olympus_nap_settlement_LOCAL_3_be
-settle4.nexdev.net olympus_nap_settlement_LOCAL_4_be
-settle5.nexdev.net olympus_nap_settlement_LOCAL_5_be
 syncfile.nexdev.net olympus_nap_mail_sync_files_LOCAL_be
