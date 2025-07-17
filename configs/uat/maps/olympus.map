@@ -1,3 +1,4 @@
+vn-reward-wallet-api.st-kluat.gamora.prod olympus_nap_reward_wallet_api_UAT_be
 parlayrms.kl.starixuat.com olympus_nap_parlay_rms_UAT_be
 settle-setting.kl.starixuat.com olympus_nap_settlement_support_testing_UAT_be
 riskcontrol.kl.starixuat.com olympus_nap_risk_control_UAT_be
@@ -23,7 +24,6 @@ napapi.starix-uat.nebula.prod olympus_nap_nap_api_netcore_UAT_be
 rocketchat-synergy.starix-uat.nebula.prod olympus_nap_mail_rocket_chat_service_UAT_be
 mattermost-synergy.starix-uat.nebula.prod olympus_nap_mail_mattermost_service_UAT_be
 chat.starixuat.com olympus_nap_owp_chat_UAT_be
-vn-reward-wallet-api-uat.nebula.prod olympus_nap_reward_wallet_api_UAT_be
 owp1.starixuat.com olympus_nap_owp_UAT_1_be
 owp1.starix-uat.nebula.prod olympus_nap_owp_UAT_1_be
 heavyinternalapi.starix-uat.nebula.prod olympus_nap_heavyinternalapi_UAT_be
