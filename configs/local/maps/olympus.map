@@ -1,3 +1,4 @@
+reports1.nexdev.net olympus_nap_reports_LOCAL_1_be
 settle-internal-api.nexdev.net olympus_nap_settlement_internal_api_LOCAL_be
 reports.nexdev.net olympus_nap_reports_LOCAL_be
 broadcast-api.klc.nexdev.net olympus_nap_settlement_broadcastapi_LOCAL_be
@@ -35,7 +36,6 @@ mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
 file.starix-local.nexdev.net olympus_nap_filebrowser_LOCAL_be
 file.starix.local.dev olympus_nap_filebrowser_LOCAL_be
 fanexdataservices1.nexdev.net olympus_nap_fanexdataservice_LOCAL_1_be
-reports1.nexdev.net olympus_nap_reports_LOCAL_1_be
 datawarehouse.nexdev.net olympus_nap_dw_web_LOCAL_be
 devnotes.nexdev.net olympus_devnotes_LOCAL_be
 externalapi.nexdev.net olympus_nap_mail_external_api_LOCAL_be
