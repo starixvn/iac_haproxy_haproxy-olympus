@@ -1,3 +1,4 @@
+settle-internal-api.nexdev.net olympus_nap_settlement_internal_api_LOCAL_be
 reports.nexdev.net olympus_nap_reports_LOCAL_be
 broadcast-api.klc.nexdev.net olympus_nap_settlement_broadcastapi_LOCAL_be
 tvs4.nexdev.net olympus_nap_tvs_website_LOCAL_4_be
@@ -56,5 +57,4 @@ riskcontrol.nexdev.net olympus_nap_risk_control_LOCAL_be
 riskcontrol1.nexdev.net olympus_nap_risk_control_LOCAL_1_be
 riskcontrol2.nexdev.net olympus_nap_risk_control_LOCAL_2_be
 settle-external-api.nexdev.net olympus_nap_settlement_external_api_LOCAL_be
-settle-internal-api.nexdev.net olympus_nap_settlement_internal_api_LOCAL_be
 syncfile.nexdev.net olympus_nap_mail_sync_files_LOCAL_be
