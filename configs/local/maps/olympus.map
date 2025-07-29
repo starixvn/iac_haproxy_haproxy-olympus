@@ -1,3 +1,4 @@
+napmailletstalk.nexdev.net olympus_nap_mail_letstalk_service_LOCAL_be
 riskcontrol.nexdev.net olympus_nap_risk_control_LOCAL_be
 reports1.nexdev.net olympus_nap_reports_LOCAL_1_be
 settle-internal-api.nexdev.net olympus_nap_settlement_internal_api_LOCAL_be
@@ -44,7 +45,6 @@ mail_service.nexdev.net:8787 olympus_mail_service_LOCAL_be
 msite2.nexdev.net olympus_nap_msite2_LOCAL_be
 nap-report.nexdev.net olympus_nap_report_LOCAL_be
 napmailfiles.nexdev.net olympus_nap_mail_downloadfile_LOCAL_be
-napmailletstalk.nexdev.net  olympus_nap_mail_letstalk_service_LOCAL_be
 napsc1.nexdev.net olympus_nap_adminnetcore_LOCAL_1_be
 nap-settlement-setting.nexdev.net olympus_nap_settlement_clonedata_api_LOCAL_be
 olympusmonitoring.nexdev.net olympus_nap_olympus_monitoring_LOCAL_be
