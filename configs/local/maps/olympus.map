@@ -1,3 +1,6 @@
+mountfile.nexdev.net olympus_nap_mail_filebrowser_LOCAL_be
+file.starix-local.nexdev.net olympus_nap_mail_filebrowser_LOCAL_be
+file.starix.local.dev olympus_nap_mail_filebrowser_LOCAL_be
 reports2.nexdev.net olympus_nap_reports_LOCAL_2_be
 reports1.nexdev.net olympus_nap_reports_LOCAL_1_be
 napmailletstalk.nexdev.net olympus_nap_mail_letstalk_service_LOCAL_be
@@ -35,9 +38,6 @@ cwlanalysis.nexdev.net olympus_nap_mail_cwl_analysis_LOCAL_be
 cursor.nexdev.net olympus_nap_cursorstatistic_LOCAL_be
 owp1.nexdev.net olympus_nap_owp_LOCAL_1_be
 heavyinternalapi.starix-local.nexdev.net olympus_nap_heavyinternalapi_LOCAL_be
-mountfile.nexdev.net olympus_nap_filebrowser_LOCAL_be
-file.starix-local.nexdev.net olympus_nap_filebrowser_LOCAL_be
-file.starix.local.dev olympus_nap_filebrowser_LOCAL_be
 fanexdataservices1.nexdev.net olympus_nap_fanexdataservice_LOCAL_1_be
 datawarehouse.nexdev.net olympus_nap_dw_web_LOCAL_be
 devnotes.nexdev.net olympus_devnotes_LOCAL_be
