@@ -1,6 +1,8 @@
+datawarehouse.stag-kl.oneops.net olympus_nap_mail_dw_web_KLPROD_1_be
+napdw-klp.starixplay.com olympus_nap_mail_dw_web_KLPROD_be
+datawarehouse.oneops.net olympus_nap_mail_dw_web_KLPROD_be
 pythonchartapi.stag-kl.oneops.net olympus_nap_mail_python_chart_api_KLPROD_be
 pythonchartapi.starix-klprod.gamora.prod olympus_nap_mail_python_chart_api_KLPROD_be
-datawarehouse.stag-kl.oneops.net olympus_nap_dw_web_KLPROD_1_be
 parlayrms.stag-kl.oneops.net olympus_nap_parlay_rms_KLPROD_1_be
 msite.stag-kl.oneops.net olympus_nap_msitenet8_KLPROD_1_be
 riskcontrol.stag-kl.oneops.net olympus_nap_risk_control_KLPROD_1_be
@@ -48,8 +50,6 @@ riskcontrol.oneops.net olympus_nap_risk_control_KLPROD_be
 mountfile-klp.starixplay.com olympus_nap_filebrowser_KLPROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_KLPROD_be
 mountfile.oneops.net olympus_nap_filebrowser_KLPROD_be
-napdw-klp.starixplay.com olympus_nap_dw_web_KLPROD_be
-datawarehouse.oneops.net olympus_nap_dw_web_KLPROD_be
 parlayrms-klp.starixplay.com olympus_nap_parlay_rms_KLPROD_be
 parlayrms.oneops.net olympus_nap_parlay_rms_KLPROD_be
 owp-klp.starixplay.com olympus_nap_owp_KLPROD_be
