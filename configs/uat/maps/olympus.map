@@ -1,3 +1,4 @@
+riskcontrol.kl.starixuat.com olympus_nap_mail_risk_control_UAT_be
 napsc.kl.starixuat.com olympus_nap_admin_UAT_be
 napapi.starix-uat.nebula.prod olympus_nap_napapi_UAT_be
 pythonchartapi.kl.starixuat.com olympus_nap_mail_python_chart_api_UAT_be
@@ -14,7 +15,6 @@ msite2.kl.starixuat.com olympus_nap_msite2_UAT_be
 msite.kl.starixuat.com olympus_nap_msitenet8_UAT_be
 parlayrms.kl.starixuat.com olympus_nap_parlay_rms_UAT_be
 settle-setting.kl.starixuat.com olympus_nap_settlement_support_testing_UAT_be
-riskcontrol.kl.starixuat.com olympus_nap_risk_control_UAT_be
 settle4.kl.starixuat.com olympus_nap_settlement_UAT_4_be
 settle3.kl.starixuat.com olympus_nap_settlement_UAT_3_be
 settle2.kl.starixuat.com olympus_nap_settlement_UAT_2_be
