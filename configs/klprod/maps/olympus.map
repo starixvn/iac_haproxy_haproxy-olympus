@@ -1,3 +1,7 @@
+riskcontrol.stag-kl.oneops.net olympus_nap_mail_risk_control_KLPROD_1_be
+vn-migration02-klp.starixplay.com olympus_nap_mail_risk_control_KLPROD_be
+riskcontrol-klp.starixplay.com olympus_nap_mail_risk_control_KLPROD_be
+riskcontrol.oneops.net olympus_nap_mail_risk_control_KLPROD_be
 fanexdataservicewasa.starix-klprod.gamora.prod olympus_nap_fanexdataservice_KLPROD_2_be
 fanexdataservicenexus.starix-klprod.gamora.prod olympus_nap_fanexdataservice_KLPROD_1_be
 fanexdataservice.starix-klprod.gamora.prod olympus_nap_fanexdataservice_KLPROD_be
@@ -8,7 +12,6 @@ pythonchartapi.stag-kl.oneops.net olympus_nap_mail_python_chart_api_KLPROD_be
 pythonchartapi.starix-klprod.gamora.prod olympus_nap_mail_python_chart_api_KLPROD_be
 parlayrms.stag-kl.oneops.net olympus_nap_parlay_rms_KLPROD_1_be
 msite.stag-kl.oneops.net olympus_nap_msitenet8_KLPROD_1_be
-riskcontrol.stag-kl.oneops.net olympus_nap_risk_control_KLPROD_1_be
 tvs.stag-kl.oneops.net olympus_nap_tvs_website_KLPROD_1_be
 settle.stag-kl.oneops.net olympus_nap_settlement_KLPROD_1_be
 reports-klp.starixplay.com olympus_nap_reports_KLPROD_be
@@ -45,9 +48,6 @@ mattermost-synergy.starix-klprod.gamora.prod olympus_nap_mail_mattermost_service
 napmailcwlinvestigation.starix-klprod.gamora.prod olympus_nap_mail_cwl_investigation_KLPROD_be
 napmailcwlanalysis.starix-klprod.gamora.prod olympus_nap_mail_cwl_analysis_KLPROD_be
 owp-chat-klp.starixplay.com olympus_nap_owp_chat_KLPROD_be
-vn-migration02-klp.starixplay.com olympus_nap_risk_control_KLPROD_be
-riskcontrol-klp.starixplay.com olympus_nap_risk_control_KLPROD_be
-riskcontrol.oneops.net olympus_nap_risk_control_KLPROD_be
 mountfile-klp.starixplay.com olympus_nap_filebrowser_KLPROD_be
 mountfile.starixplay.com olympus_nap_filebrowser_KLPROD_be
 mountfile.oneops.net olympus_nap_filebrowser_KLPROD_be
