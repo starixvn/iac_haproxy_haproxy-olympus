@@ -1,3 +1,6 @@
+reports2.kl.starixuat.com olympus_nap_mail_reports_UAT_2_be
+reports1.kl.starixuat.com olympus_nap_mail_reports_UAT_1_be
+reports.kl.starixuat.com olympus_nap_mail_reports_UAT_be
 riskcontrol.kl.starixuat.com olympus_nap_mail_risk_control_UAT_be
 napsc.kl.starixuat.com olympus_nap_admin_UAT_be
 napapi.starix-uat.nebula.prod olympus_nap_napapi_UAT_be
@@ -28,9 +31,6 @@ tvs1.kl.starixuat.com olympus_nap_tvs_website_UAT_1_be
 tvs.starixuat.com olympus_nap_tvs_website_UAT_be
 tvs.kl.starixuat.com olympus_nap_tvs_website_UAT_be
 tvs.st-kluat.gamora.prod olympus_nap_tvs_website_UAT_be
-reports2.kl.starixuat.com olympus_nap_reports_UAT_2_be
-reports1.kl.starixuat.com olympus_nap_reports_UAT_1_be
-reports.kl.starixuat.com olympus_nap_reports_UAT_be
 rocketchat-synergy.starix-uat.nebula.prod olympus_nap_mail_rocket_chat_service_UAT_be
 mattermost-synergy.starix-uat.nebula.prod olympus_nap_mail_mattermost_service_UAT_be
 chat.starixuat.com olympus_nap_owp_chat_UAT_be
