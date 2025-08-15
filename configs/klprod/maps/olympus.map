@@ -1,3 +1,7 @@
+reports.stag-kl.oneops.net olympus_nap_mail_reports_KLPROD_1_be
+reports.starix-klprod.gamora.prod olympus_nap_mail_reports_KLPROD_1_be
+reports-klp.starixplay.com olympus_nap_mail_reports_KLPROD_be
+reports.oneops.net olympus_nap_mail_reports_KLPROD_be
 riskcontrol.stag-kl.oneops.net olympus_nap_mail_risk_control_KLPROD_1_be
 vn-migration02-klp.starixplay.com olympus_nap_mail_risk_control_KLPROD_be
 riskcontrol-klp.starixplay.com olympus_nap_mail_risk_control_KLPROD_be
@@ -14,12 +18,8 @@ parlayrms.stag-kl.oneops.net olympus_nap_parlay_rms_KLPROD_1_be
 msite.stag-kl.oneops.net olympus_nap_msitenet8_KLPROD_1_be
 tvs.stag-kl.oneops.net olympus_nap_tvs_website_KLPROD_1_be
 settle.stag-kl.oneops.net olympus_nap_settlement_KLPROD_1_be
-reports-klp.starixplay.com olympus_nap_reports_KLPROD_be
-reports.oneops.net olympus_nap_reports_KLPROD_be
-reports.starix-klprod.gamora.prod olympus_nap_reports_KLPROD_be
 msite-klp.starixplay.com olympus_nap_msitenet8_KLPROD_be
 msite.oneops.net olympus_nap_msitenet8_KLPROD_be
-reports.stag-kl.oneops.net olympus_nap_reports_KLPROD_1_be
 vn-reward-wallet-api.starix-klprod.gamora.prod olympus_nap_reward_wallet_api_KLPROD_be
 vn-reward-wallet-api-klp.starixplay.com olympus_nap_reward_wallet_api_KLPROD_be
 vn-reward-wallet-api.oneops.net olympus_nap_reward_wallet_api_KLPROD_be
