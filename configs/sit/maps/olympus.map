@@ -1,6 +1,6 @@
-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
+settle-external-api.starix-sit.nebula.sit olympus_nap_settlement_external_api_SIT_be
 vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
-riskcontrol.playonesit.com olympus_nap_mail_risk_control_SIT_be
+vn-riskcontrol.playonesit.com olympus_nap_mail_risk_control_SIT_be
 rocketchat-synergy.starix-sit.nebula.sit olympus_nap_mail_rocket_chat_service_SIT_be
 napsc.playonesit.com olympus_nap_admin_SIT_be
 napapi.starix-sit.nebula.sit olympus_nap_napapi_SIT_be
