@@ -1,3 +1,5 @@
+settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
+vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
 riskcontrol.playonesit.com olympus_nap_mail_risk_control_SIT_be
 rocketchat-synergy.starix-sit.nebula.sit olympus_nap_mail_rocket_chat_service_SIT_be
 napsc.playonesit.com olympus_nap_admin_SIT_be
@@ -14,9 +16,7 @@ tvs2.playonesit.com olympus_nap_tvs_website_SIT_2_be
 tvs1.playonesit.com olympus_nap_tvs_website_SIT_1_be
 tvs.playonesit.com olympus_nap_tvs_website_SIT_be
 msite.playonesit.com olympus_nap_msitenet8_SIT_be
-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
-vn-settle-external-api.playonesit.com olympus_nap_settlement_external_api_SIT_be
-settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
+vn-settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 heavyinternalapi.starix-sit.nebula.sit olympus_nap_heavyinternalapi_SIT_be
 vn-settle-internal-api.playonesit.com olympus_nap_settlement_internal_api_SIT_be
 mountfile.playonesit.com olympus_nap_filebrowser_SIT_be
