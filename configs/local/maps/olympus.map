@@ -1,3 +1,4 @@
+fanexdataservices.nexdev.net olympus_nap_fanexdataservice_LOCAL_be
 cwl-investigation.klc.nexdev.net olympus_nap_mail_cwl_investigation_LOCAL_be
 fanexdatadocs.klc.nexdev.net olympus_nap_fanexdatadocs_LOCAL_be
 mailservice.klc.nexdev.net olympus_nap_mail_mail_service_LOCAL_be
@@ -27,7 +28,6 @@ settle2.nexdev.net olympus_nap_settlement_LOCAL_2_be
 settle1.nexdev.net olympus_nap_settlement_LOCAL_1_be
 settle1.klc.nexdev.net olympus_nap_settlement_LOCAL_1_be
 settle-setting.nexdev.net olympus_nap_settlement_support_testing_LOCAL_be
-fanexdataservices.nexdev.net olympus_nap_fanexdataservice_LOCAL_be
 msite.nexdev.net olympus_nap_msitenet8_LOCAL_be
 napsc.nexdev.net olympus_nap_adminnetcore_LOCAL_be
 nap_api_netcore.nexdev.net olympus_nap_nap_api_netcore_LOCAL_be
