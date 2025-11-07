@@ -1,3 +1,4 @@
+rocketchatapi.klc.nexdev.net olympus_nap_mail_rocket_chat_service_LOCAL_be
 bg-download.klc.nexdev.net olympus_nap_synergy_bg_auto_LOCAL_be
 cwl-analysis.klc.nexdev.net olympus_nap_mail_cwl_analysis_LOCAL_be
 operationcrawlerapi.klc.nexdev.net olympus_nap_operationcrawler_LOCAL_be
@@ -14,7 +15,6 @@ cwl-investigation.klc.nexdev.net olympus_nap_mail_cwl_investigation_LOCAL_be
 fanexdatadocs.klc.nexdev.net olympus_nap_fanexdatadocs_LOCAL_be
 mailservice.klc.nexdev.net olympus_nap_mail_mail_service_LOCAL_be
 fanexumapi.klc.nexdev.net olympus_fanex_um_LOCAL_be
-rocketchatapi.klc.nexdev.net olympus_nap_mail_rocket_chat_service_LOCAL_be
 pythonchartapi.klc.nexdev.net olympus_nap_mail_python_chart_api_LOCAL_be
 broadcast-api.klc.nexdev.net olympus_nap_settlement_broadcastapi_LOCAL_be
 mountfile.nexdev.net olympus_nap_mail_filebrowser_LOCAL_be
