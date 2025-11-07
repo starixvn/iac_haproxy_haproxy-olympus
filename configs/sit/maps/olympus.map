@@ -1,3 +1,4 @@
+msite2.nx-st.playonesit.com olympus_nap_msite2_SIT_be
 vn-settle-internal-api.playonesit.com olympus_nap_settlement_internal_api_SIT_be
 napmailservice.st-sit.nebula.sit olympus_nap_mail_mail_service_SIT_be
 settle1.playonesit.com olympus_nap_settlement_SIT_1_be
@@ -23,7 +24,6 @@ heavyinternalapi.starix-sit.nebula.sit olympus_nap_heavyinternalapi_SIT_be
 mountfile.playonesit.com olympus_nap_filebrowser_SIT_be
 reports.playonesit.com olympus_nap_reports_SIT_be
 datawarehouse.playthefun.com olympus_nap_dw_web_SIT_be
-msite2.playonesit.com olympus_nap_msite2_SIT_be
 napmailletstalk.playonesit.com olympus_nap_mail_letstalk_service_SIT_be
 parlayrms.playthefun.com olympus_nap_parlay_rms_SIT_be
 tvs3.playthefun.com olympus_nap_tvs_website_SIT_3_be
