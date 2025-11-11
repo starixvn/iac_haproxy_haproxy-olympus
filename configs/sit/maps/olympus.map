@@ -1,3 +1,4 @@
+settle-broadcast-api.nx-st.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 vn-reward-wallet-api.nx-st.playonesit.com olympus_nap_reward_wallet_api_SIT_be
 vn-settle-external-api.nx-st.playonesit.com olympus_nap_settlement_external_api_SIT_be
 settle3.nx-st.playonesit.com olympus_nap_settlement_SIT_3_be
@@ -17,7 +18,6 @@ tvs2.playonesit.com olympus_nap_tvs_website_SIT_2_be
 tvs1.playonesit.com olympus_nap_tvs_website_SIT_1_be
 tvs.playonesit.com olympus_nap_tvs_website_SIT_be
 msite.playonesit.com olympus_nap_msitenet8_SIT_be
-vn-settle-broadcast-api.playonesit.com olympus_nap_settlement_broadcastapi_SIT_be
 heavyinternalapi.starix-sit.nebula.sit olympus_nap_heavyinternalapi_SIT_be
 mountfile.playonesit.com olympus_nap_filebrowser_SIT_be
 reports.playonesit.com olympus_nap_reports_SIT_be
